@@ -22,4 +22,4 @@ I'm a Computer Science undergraduate, founder, and developer. I build custom sof
 
 ---
 
-📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@domain.com) | [Silia Tech](https://siliatech.com)
+📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/abdul-arshad018) | [Email](mailto:abdularshad018@gmail.com) | [Silia Tech](https://siliatech.com)
