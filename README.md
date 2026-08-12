@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Abdul, and I am an aspiring Software Developer
+My name is Abdul, and I am a Computer Science undergraduate student. I am the CEO and founder of Silia Tech, a company that build custom software to solve problems for businesses.
 
 <!--
 **Abdul-018/Abdul-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
