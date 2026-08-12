@@ -13,7 +13,7 @@ I'm a Computer Science undergraduate, founder, and developer. I build custom sof
 ---
 
 ### 🛠️ Tech & Tools
-`Python` `JavaScript` `AI / ML Development` `Full-Stack Web` `Git`
+`Python` `JavaScript` `C#` `Java` `HTML` `CSS` `AI / ML Development` `Full-Stack Web` `Git`
 
 ---
 
