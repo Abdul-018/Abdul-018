@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Abdul, and I am an aspiring Software Developer
 
 <!--
 **Abdul-018/Abdul-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
