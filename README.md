@@ -1,18 +1,25 @@
-## Hi there 👋
-My name is Abdul, and I am a Computer Science undergraduate student. I am the CEO and founder of Silia Tech, a company that builds custom software to solve problems for businesses.
-I am currently working on an AI personal assistant, similar to JARVIS from Marvel Iron Man. Right now, I am focussing on learning how to use Python with AI to develop AI powered software. I am searching for internships and year in industries as well.
-Fun fact: I started my freelance software work with my first gig when I was 14, building a website for a family friend.
-<!--
-**Abdul-018/Abdul-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, I'm Abdul
 
-Here are some ideas to get you started:
+I'm a Computer Science undergraduate, founder, and developer. I build custom software solutions for businesses and am currently exploring the intersection of Python and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Up To
+* 🏢 **Founder & CEO** at **Silia Tech** — Engineering custom software to solve real business challenges.
+* 🤖 **Current Project:** Building an AI-powered personal assistant (inspired by JARVIS).
+* 🎯 **Career Goal:** Open to **Software Engineering Internships** and **Year in Industry** placements.
+* 🐍 **Focus Area:** Deepening my expertise in Python for AI application development.
+
+---
+
+### 🛠️ Tech & Tools
+`Python` `JavaScript` `AI / ML Development` `Full-Stack Web` `Git`
+
+---
+
+### ⚡ Quick Fact
+> Built and launched my first commercial website for a client at age 14.
+
+---
+
+📬 **Connect with me:** [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:your.email@domain.com) | [Silia Tech](https://siliatech.com)
