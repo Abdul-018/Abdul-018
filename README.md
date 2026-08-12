@@ -1,6 +1,7 @@
 ## Hi there 👋
-My name is Abdul, and I am a Computer Science undergraduate student. I am the CEO and founder of Silia Tech, a company that build custom software to solve problems for businesses.
-
+My name is Abdul, and I am a Computer Science undergraduate student. I am the CEO and founder of Silia Tech, a company that builds custom software to solve problems for businesses.
+I am currently working on an AI personal assistant, similar to JARVIS from Marvel Iron Man. Right now, I am focussing on learning how to use Python with AI to develop AI powered software. I am searching for internships and year in industries as well.
+Fun fact: I started my freelance software work with my first gig when I was 14, building a website for a family friend.
 <!--
 **Abdul-018/Abdul-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
