@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Abdul
 
-I'm a Computer Science undergraduate, founder, and developer. I build custom software solutions for businesses and am currently exploring the intersection of Python and Artificial Intelligence.
+I'm a Computer Science undergraduate, founder, and developer. I build custom software solutions for businesses and am currently exploring Python and Artificial Intelligence.
 
 ---
 
